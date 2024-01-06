@@ -1,0 +1,9 @@
+* {
+    font-family: 'Poppins', sans-serif;
+}
+.banner {
+    background-image: url(/assets/banner.png);
+    padding: 130px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
